@@ -1,3 +1,3 @@
 # autopwnpy
 autopwner for ctf challenges
-works only with 64 bit binaries.
+works only with 64 bit linux binaries.
